@@ -1,0 +1,11 @@
+﻿POST:
+localhost:3333/ticket
+
+PUT
+localhost:3333/ticket/:id
+
+GET
+localhost:3333/ticket/:id
+
+DELETE
+localhost:3333/ticket/:id
